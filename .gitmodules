@@ -1,0 +1,6 @@
+[submodule "rombutl"]
+	path = rombutl
+	url = https://github.com/KomaromiJano/rombutl.git
+[submodule "github_oop_007"]
+	path = github_oop_007
+	url = https://github.com/KomaromiJano/github_oop_007.git
